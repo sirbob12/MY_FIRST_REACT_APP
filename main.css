@@ -1,0 +1,32 @@
+
+
+.navbar{
+   
+    background:blueviolet;
+}
+
+.grid{
+    display: flex;
+    justify-content: space-between;
+    }
+
+ul{
+    display: flex;
+    list-style: none;
+  
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+li{
+    padding: 20px 10px 10px ;
+    font-size: 20px;
+}
+
+.burger-menu{
+    fill: #fff;
+    padding: 20px 15px
+}
